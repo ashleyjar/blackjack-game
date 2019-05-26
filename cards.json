@@ -1,0 +1,262 @@
+[
+  {
+    "suit": "♠",
+    "rank": "A",
+    "points": 1
+  },
+  {
+    "suit": "♠",
+    "rank": "2",
+    "points": 2
+  },
+  {
+    "suit": "♠",
+    "rank": "3",
+    "points": 3
+  },
+  {
+    "suit": "♠",
+    "rank": "4",
+    "points": 4
+  },
+  {
+    "suit": "♠",
+    "rank": "5",
+    "points": 5
+  },
+  {
+    "suit": "♠",
+    "rank": "6",
+    "points": 6
+  },
+  {
+    "suit": "♠",
+    "rank": "7",
+    "points": 7
+  },
+  {
+    "suit": "♠",
+    "rank": "8",
+    "points": 8
+  },
+  {
+    "suit": "♠",
+    "rank": "9",
+    "points": 9
+  },
+  {
+    "suit": "♠",
+    "rank": "10",
+    "points": 10
+  },
+  {
+    "suit": "♠",
+    "rank": "J",
+    "points": 10
+  },
+  {
+    "suit": "♠",
+    "rank": "Q",
+    "points": 10
+  },
+  {
+    "suit": "♠",
+    "rank": "K",
+    "points": 10
+  },
+  {
+    "suit": "♥",
+    "rank": "A",
+    "points": 1
+  },
+  {
+    "suit": "♥",
+    "rank": "2",
+    "points": 2
+  },
+  {
+    "suit": "♥",
+    "rank": "3",
+    "points": 3
+  },
+  {
+    "suit": "♥",
+    "rank": "4",
+    "points": 4
+  },
+  {
+    "suit": "♥",
+    "rank": "5",
+    "points": 5
+  },
+  {
+    "suit": "♥",
+    "rank": "6",
+    "points": 6
+  },
+  {
+    "suit": "♥",
+    "rank": "7",
+    "points": 7
+  },
+  {
+    "suit": "♥",
+    "rank": "8",
+    "points": 8
+  },
+  {
+    "suit": "♥",
+    "rank": "9",
+    "points": 9
+  },
+  {
+    "suit": "♥",
+    "rank": "10",
+    "points": 10
+  },
+  {
+    "suit": "♥",
+    "rank": "J",
+    "points": 10
+  },
+  {
+    "suit": "♥",
+    "rank": "Q",
+    "points": 10
+  },
+  {
+    "suit": "♥",
+    "rank": "K",
+    "points": 10
+  },
+  {
+    "suit": "♦",
+    "rank": "A",
+    "points": 1
+  },
+  {
+    "suit": "♦",
+    "rank": "2",
+    "points": 2
+  },
+  {
+    "suit": "♦",
+    "rank": "3",
+    "points": 3
+  },
+  {
+    "suit": "♦",
+    "rank": "4",
+    "points": 4
+  },
+  {
+    "suit": "♦",
+    "rank": "5",
+    "points": 5
+  },
+  {
+    "suit": "♦",
+    "rank": "6",
+    "points": 6
+  },
+  {
+    "suit": "♦",
+    "rank": "7",
+    "points": 7
+  },
+  {
+    "suit": "♦",
+    "rank": "8",
+    "points": 8
+  },
+  {
+    "suit": "♦",
+    "rank": "9",
+    "points": 9
+  },
+  {
+    "suit": "♦",
+    "rank": "10",
+    "points": 10
+  },
+  {
+    "suit": "♦",
+    "rank": "J",
+    "points": 10
+  },
+  {
+    "suit": "♦",
+    "rank": "Q",
+    "points": 10
+  },
+  {
+    "suit": "♦",
+    "rank": "K",
+    "points": 10
+  },
+  {
+    "suit": "♣",
+    "rank": "A",
+    "points": 1
+  },
+  {
+    "suit": "♣",
+    "rank": "2",
+    "points": 2
+  },
+  {
+    "suit": "♣",
+    "rank": "3",
+    "points": 3
+  },
+  {
+    "suit": "♣",
+    "rank": "4",
+    "points": 4
+  },
+  {
+    "suit": "♣",
+    "rank": "5",
+    "points": 5
+  },
+  {
+    "suit": "♣",
+    "rank": "6",
+    "points": 6
+  },
+  {
+    "suit": "♣",
+    "rank": "7",
+    "points": 7
+  },
+  {
+    "suit": "♣",
+    "rank": "8",
+    "points": 8
+  },
+  {
+    "suit": "♣",
+    "rank": "9",
+    "points": 9
+  },
+  {
+    "suit": "♣",
+    "rank": "10",
+    "points": 10
+  },
+  {
+    "suit": "♣",
+    "rank": "J",
+    "points": 10
+  },
+  {
+    "suit": "♣",
+    "rank": "Q",
+    "points": 10
+  },
+  {
+    "suit": "♣",
+    "rank": "K",
+    "points": 10
+  }
+]
