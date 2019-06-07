@@ -1,0 +1,368 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "suit": "♠",
+      "color": "black",
+      "rank": "A",
+      "points": 1
+    },
+    {
+      "id": 2,
+      "suit": "♠",
+      "color": "black",
+      "rank": "2",
+      "points": 2
+    },
+    {
+      "id": 3,
+      "suit": "♠",
+      "color": "black",
+      "rank": "3",
+      "points": 3
+    },
+    {
+      "id": 4,
+      "suit": "♠",
+      "color": "black",
+      "rank": "4",
+      "points": 4
+    },
+    {
+      "id": 5,
+      "suit": "♠",
+      "color": "black",
+      "rank": "5",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "suit": "♠",
+      "color": "black",
+      "rank": "6",
+      "points": 6
+    },
+    {
+      "id": 7,
+      "suit": "♠",
+      "color": "black",
+      "rank": "7",
+      "points": 7
+    },
+    {
+      "id": 8,
+      "suit": "♠",
+      "color": "black",
+      "rank": "8",
+      "points": 8
+    },
+    {
+      "id": 9,
+      "suit": "♠",
+      "color": "black",
+      "rank": "9",
+      "points": 9
+    },
+    {
+      "id": 10,
+      "suit": "♠",
+      "color": "black",
+      "rank": "10",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "suit": "♠",
+      "color": "black",
+      "rank": "J",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "suit": "♠",
+      "color": "black",
+      "rank": "Q",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "suit": "♠",
+      "color": "black",
+      "rank": "K",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "suit": "♥",
+      "color": "red",
+      "rank": "A",
+      "points": 1
+    },
+    {
+      "id": 15,
+      "suit": "♥",
+      "color": "red",
+      "rank": "2",
+      "points": 2
+    },
+    {
+      "id": 16,
+      "suit": "♥",
+      "color": "red",
+      "rank": "3",
+      "points": 3
+    },
+    {
+      "id": 17,
+      "suit": "♥",
+      "color": "red",
+      "rank": "4",
+      "points": 4
+    },
+    {
+      "id": 18,
+      "suit": "♥",
+      "color": "red",
+      "rank": "5",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "suit": "♥",
+      "color": "red",
+      "rank": "6",
+      "points": 6
+    },
+    {
+      "id": 20,
+      "suit": "♥",
+      "color": "red",
+      "rank": "7",
+      "points": 7
+    },
+    {
+      "id": 21,
+      "suit": "♥",
+      "color": "red",
+      "rank": "8",
+      "points": 8
+    },
+    {
+      "id": 22,
+      "suit": "♥",
+      "color": "red",
+      "rank": "9",
+      "points": 9
+    },
+    {
+      "id": 23,
+      "suit": "♥",
+      "color": "red",
+      "rank": "10",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "suit": "♥",
+      "color": "red",
+      "rank": "J",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "suit": "♥",
+      "color": "red",
+      "rank": "Q",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "suit": "♥",
+      "color": "red",
+      "rank": "K",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "suit": "♦",
+      "color": "red",
+      "rank": "A",
+      "points": 1
+    },
+    {
+      "id": 28,
+      "suit": "♦",
+      "color": "red",
+      "rank": "2",
+      "points": 2
+    },
+    {
+      "id": 29,
+      "suit": "♦",
+      "color": "red",
+      "rank": "3",
+      "points": 3
+    },
+    {
+      "id": 30,
+      "suit": "♦",
+      "color": "red",
+      "rank": "4",
+      "points": 4
+    },
+    {
+      "id": 31,
+      "suit": "♦",
+      "color": "red",
+      "rank": "5",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "suit": "♦",
+      "color": "red",
+      "rank": "6",
+      "points": 6
+    },
+    {
+      "id": 33,
+      "suit": "♦",
+      "color": "red",
+      "rank": "7",
+      "points": 7
+    },
+    {
+      "id": 34,
+      "suit": "♦",
+      "color": "red",
+      "rank": "8",
+      "points": 8
+    },
+    {
+      "id": 35,
+      "suit": "♦",
+      "color": "red",
+      "rank": "9",
+      "points": 9
+    },
+    {
+      "id": 36,
+      "suit": "♦",
+      "color": "red",
+      "rank": "10",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "suit": "♦",
+      "color": "red",
+      "rank": "J",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "suit": "♦",
+      "color": "red",
+      "rank": "Q",
+      "points": 10
+    },
+    {
+      "id": 39,
+      "suit": "♦",
+      "color": "red",
+      "rank": "K",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "suit": "♣",
+      "color": "black",
+      "rank": "A",
+      "points": 1
+    },
+    {
+      "id": 41,
+      "suit": "♣",
+      "color": "black",
+      "rank": "2",
+      "points": 2
+    },
+    {
+      "id": 42,
+      "suit": "♣",
+      "color": "black",
+      "rank": "3",
+      "points": 3
+    },
+    {
+      "id": 43,
+      "suit": "♣",
+      "color": "black",
+      "rank": "4",
+      "points": 4
+    },
+    {
+      "id": 44,
+      "suit": "♣",
+      "color": "black",
+      "rank": "5",
+      "points": 5
+    },
+    {
+      "id": 45,
+      "suit": "♣",
+      "color": "black",
+      "rank": "6",
+      "points": 6
+    },
+    {
+      "id": 46,
+      "suit": "♣",
+      "color": "black",
+      "rank": "7",
+      "points": 7
+    },
+    {
+      "id": 47,
+      "suit": "♣",
+      "color": "black",
+      "rank": "8",
+      "points": 8
+    },
+    {
+      "id": 48,
+      "suit": "♣",
+      "color": "black",
+      "rank": "9",
+      "points": 9
+    },
+    {
+      "id": 49,
+      "suit": "♣",
+      "color": "black",
+      "rank": "10",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "suit": "♣",
+      "color": "black",
+      "rank": "J",
+      "points": 10
+    },
+    {
+      "id": 51,
+      "suit": "♣",
+      "color": "black",
+      "rank": "Q",
+      "points": 10
+    },
+    {
+      "id": 52,
+      "suit": "♣",
+      "color": "black",
+      "rank": "K",
+      "points": 10
+    }
+  ]
+}
