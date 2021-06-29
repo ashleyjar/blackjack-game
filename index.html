@@ -257,7 +257,7 @@ function PlayerHand(props) {
   let player1 = this.state.player1.slice();
   let dealerTotal = dealer.reduce((prev,next) => prev + next.points,0);
   let player1Total = player1.reduce((prev,next) => prev + next.points,0);
-  if(player1Total<=10){
+  if(player1Total<=11){
     if(player1.some(x => x.points == 1)){
       player1Total=player1Total+11;
     }
