@@ -259,7 +259,7 @@ function PlayerHand(props) {
   let player1Total = player1.reduce((prev,next) => prev + next.points,0);
   if(player1Total<=11){
     if(player1.some(x => x.points == 1)){
-      player1Total=player1Total+11;
+      player1Total=player1Total+10;
     }
   }
     
