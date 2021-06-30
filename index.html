@@ -243,7 +243,6 @@ function PlayerHand(props) {
     let player1Total = player1.reduce((prev,next) => prev + next.points,0);
     let result = (player1Total>21) ? "You Lose!" : "";
     result = (player1Total==21) ? "You Win!" : result;
-    let total = "Sum";
     this.setState(state => ({
       shuffledCards: shuffledCards,
       player1: player1,
