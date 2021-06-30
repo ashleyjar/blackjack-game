@@ -229,8 +229,7 @@ function PlayerHand(props) {
       dealerTotal: 0,
       player1Total: 0,
       standing: false,
-      result: "",
-      total: "Sum"
+      result: ""
     };
     this.hit = this.hit.bind(this);
     this.newGame = this.newGame.bind(this);
@@ -249,8 +248,7 @@ function PlayerHand(props) {
       shuffledCards: shuffledCards,
       player1: player1,
       player1Total: player1Total,
-      result: result,
-      total: total
+      result: result
     }));
     
   }
@@ -350,7 +348,6 @@ function PlayerHand(props) {
             <h3>DEALER MUST STAND ON HARD 17</h3>
           </div>
           <PlayerHand cards={player1} />
-          <h4>{total}</h4>
           <h2>{result}</h2>  
           <div className="options">
             <button className="options-button" onClick={this.hit} disabled={!shuffledCards.length || player1Total>=21 || standing}>HIT</button>
