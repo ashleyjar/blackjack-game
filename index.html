@@ -230,7 +230,7 @@ function PlayerHand(props) {
       player1Total: 0,
       standing: false,
       result: "",
-      total: ""
+      total: "Sum"
     };
     this.hit = this.hit.bind(this);
     this.newGame = this.newGame.bind(this);
@@ -244,7 +244,7 @@ function PlayerHand(props) {
     let player1Total = player1.reduce((prev,next) => prev + next.points,0);
     let result = (player1Total>21) ? "You Lose!" : "";
     result = (player1Total==21) ? "You Win!" : result;
-    let total = "" + player1Total;
+    let total = "Sum";
     this.setState(state => ({
       shuffledCards: shuffledCards,
       player1: player1,
@@ -350,7 +350,7 @@ function PlayerHand(props) {
             <h3>DEALER MUST STAND ON HARD 17</h3>
           </div>
           <PlayerHand cards={player1} />
-          <h2>q</h2>
+          <h4>{total}</h4>
           <h2>{result}</h2>  
           <div className="options">
             <button className="options-button" onClick={this.hit} disabled={!shuffledCards.length || player1Total>=21 || standing}>HIT</button>
